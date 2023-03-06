@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/pushover",
+    "name": "rene-roscher/pushover",
     "description": "Pushover notifications for Laravel.",
     "homepage": "https://github.com/laravel-notification-channels/pushover",
     "license": "MIT",
